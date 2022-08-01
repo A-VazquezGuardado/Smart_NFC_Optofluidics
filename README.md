@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/390094581.svg)](https://zenodo.org/badge/latestdoi/390094581)
+
+
 # Smart NFC Optofluidics
 
 This repository contains a generated data from the optofluidics project. 
